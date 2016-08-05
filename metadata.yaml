@@ -1,0 +1,31 @@
+_repo: Castilian-Days_7470
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hay, John
+    alias: Hay, John Milton
+    birthdate: 1838
+    deathdate: 1905
+    gutenberg_agent_id: '1926'
+    url: http://www.gutenberg.org/2009/agents/1926
+    wikipedia: http://en.wikipedia.org/wiki/John_Hay
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Social life and customs'
+- !lcsh 'Spain -- Description and travel'
+- !lcc 'DP'
+- GITenberg
+tableOfContents: Madrid al fresco -- Spanish living and dying -- Influence of tradition
+  in Spanish life -- Tauromachy -- Red-letter days -- An hour with the painters --
+  A castle in the air -- The city of the Visigoths [Toledo] -- The Escorial -- A miracle
+  play -- The cradle and the grave of Cervantes.
+title: Castilian Days
+url: http://www.gutenberg.org/ebooks/7470
